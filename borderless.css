@@ -1,0 +1,24 @@
+body{
+background-color: rgb(195, 225, 235);
+margin: 0 10%;
+font-family: sans-serif;
+}
+
+.headerText{
+    font-size: 32px;
+    font-family: serif;
+    text-align: center;
+}
+
+img{
+    margin: 3% 42% 0;
+}
+
+section h4{
+    color: burlywood;
+    font-size: 18px;
+}
+
+/* selector{
+    cssProperties: propertyValue;
+} */
